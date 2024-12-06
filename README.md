@@ -2,9 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 Here are some screenshots of the app:
 
-![Record 1](./src/assets/record-iOS.gif)
-![Record 2](./src/assets/record-Android.gif)
-
+<img src="./src/assets/record-iOS.gif" width="50%" height="50%"/>
+<img src="./src/assets/record-Android.gif" width="50%" height="50%"/>
 # Getting Started
 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
